@@ -1,0 +1,3 @@
+Activity 4.1 Feedback
+
+This code was a fairly straight forward one to figure out once I brushed up on my conditional statements and loops. I started by going back to the week 4 content to the posted examples for opening the file, which java package classes to import to the code, reading from the file, and closing the file. The tricky and more time consuming portion of this assignment was the research on the conditional statements, best methods for replacing the content and reading the next line. This was a fun task to figure out.
